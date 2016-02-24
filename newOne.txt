@@ -1,0 +1,7 @@
+ala bala portokala
+
+<<<<<<< HEAD
+askldjkvm234
+=======
+asdk
+>>>>>>> 8d0e83ea795a81eeeb7f1159afb71631f29b8a5c
