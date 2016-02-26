@@ -1,4 +1,8 @@
 second document
 in branch master made another change
 
+
 modified this in mergeConfSim
+
+made a conflict on purpose 
+
