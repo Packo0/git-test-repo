@@ -5,3 +5,6 @@ simulate a conflict
 made a conflict
 
 change some file
+modify the file
+ forgot something
+ change something else
