@@ -8,3 +8,4 @@ change some file
 modify the file
  forgot something
  change something else
+ forgot something and use git commit --amend
