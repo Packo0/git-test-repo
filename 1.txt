@@ -11,3 +11,4 @@ modify the file
  forgot something and use git commit --amend
  
  added a new footer [issue 53]
+ finished the new footer [issue 53]
